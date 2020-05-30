@@ -1,1 +1,1 @@
-google.com, KAAAA, DIRECT, KKAAAAAAA
+google.com, pub-2118706212340621, DIRECT, f08c47fec0942fa0
